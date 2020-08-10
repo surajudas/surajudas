@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Suraj Das</h1>
+<h1 align="center">Hey there 👋, I'm Suraj Das 🌞</h1>
 <h3 align="center">Somewhat of beginner developer from India</h3>
 
 - 🌱 I’m currently learning **C++ and thinking like a programmer**
