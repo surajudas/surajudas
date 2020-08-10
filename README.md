@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **C++ and thinking like a programmer**
 
-- 👨‍💻 All of my projects are available at [working on a new portfolio website atm](working on a new portfolio website atm)
+- 👨‍💻 All of my projects are available at Working on a new portfolio website
 
-- 📝 I regulary write articles on [https://surajdas.netlify.app/](https://surajdas.netlify.app/)
+- 📝 I regulary write articles on [my blog/diary kinda thing](https://surajdas.netlify.app/)
 
 - 💬 Ask me about **Uhh... nothing at the moment really**
 
