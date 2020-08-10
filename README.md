@@ -1,12 +1,14 @@
 <h1 align="center">Hey there, I'm Suraj Das 🌞🙏</h1>
 <h3 align="center">Somewhat of beginner developer from India</h3>
 <p align="center">
-  <li>🌱 I’m currently learning <b> and thinking like a programmer</b><li>
-  <li> 👨‍💻 All of my projects are available at:- Working on a new portfolio website 😅<li>
-  <li> 📝 I regulary write articles on <a src="https://surajdas.netlify.app/" alt="my blog/diary kinda thing"></a><li>
-  <li> 💬 Ask me about <b>Uhh... nothing at the moment really</b><li>
-  <li> 📫 How to reach me <b>surajdas.space@gmail.com</b><li>
-  <li> fact <b>A manga fanatic</b><li>
+  <ul>
+    <li>🌱 I’m currently learning <b> and thinking like a programmer</b><li>
+    <li> 👨‍💻 All of my projects are available at:- Working on a new portfolio website 😅<li>
+    <li> 📝 I regulary write articles on <a src="https://surajdas.netlify.app/" alt="my blog/diary kinda thing"></a><li>
+    <li> 💬 Ask me about <b>Uhh... nothing at the moment really</b><li>
+    <li> 📫 How to reach me <b>surajdas.space@gmail.com</b><li>
+    <li> fact <b>A manga fanatic</b><li>
+  </ul>  
 </p>
 <h3 align="center">Technologies I'm familiar with</h3>
 <p align="center"> <img src="https://img.shields.io/badge/-Android-black?style=flat&logo=android"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=flat"> <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-Flask-0d7963?style=flat&logo=flask&logoColor=white">
