@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Suraj Das 🌞🙏</h1>
 <h3 align="center">Somewhat of beginner developer from India</h3>
-<p align="center"
+<p align="center">
   - 🌱 I’m currently learning **C++ and thinking like a programmer**
 
   - 👨‍💻 All of my projects are available at:- Working on a new portfolio website 😅
