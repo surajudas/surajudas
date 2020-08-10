@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C++ and thinking like a programmer**
 
-- 👨‍💻 All of my projects are available at Working on a new portfolio website
+- 👨‍💻 All of my projects are available at:- Working on a new portfolio website 😅
 
 - 📝 I regulary write articles on [my blog/diary kinda thing](https://surajdas.netlify.app/)
 
