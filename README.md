@@ -1,5 +1,6 @@
 <h1 align="center">Hey there 🙏, I'm Suraj Das 🌞</h1>
 <h3 align="center">Somewhat of beginner developer from India</h3>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Suraj1749/Suraj1749/master/assets/rie-wind-blowing.gif" width="200vw" />
 <ul>
     <li>🌱 I’m currently learning <b> and thinking like a programmer</b></li>
     <li> 👨‍💻 All of my projects are available at:- Working on a new portfolio website 😅</li>
