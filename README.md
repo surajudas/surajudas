@@ -2,12 +2,12 @@
 <h3 align="center">Somewhat of beginner developer from India</h3>
 <p align="center">
   <ul>
-    <li>🌱 I’m currently learning <b> and thinking like a programmer</b><li>
-    <li> 👨‍💻 All of my projects are available at:- Working on a new portfolio website 😅<li>
-    <li> 📝 I regulary write articles on <a src="https://surajdas.netlify.app/" alt="my blog/diary kinda thing"></a><li>
-    <li> 💬 Ask me about <b>Uhh... nothing at the moment really</b><li>
-    <li> 📫 How to reach me <b>surajdas.space@gmail.com</b><li>
-    <li> fact <b>A manga fanatic</b><li>
+    <li>🌱 I’m currently learning <b> and thinking like a programmer</b></li>
+    <li> 👨‍💻 All of my projects are available at:- Working on a new portfolio website 😅</li>
+    <li> 📝 I regulary write articles on <a src="https://surajdas.netlify.app/" alt="my blog/diary kinda thing"></a></li>
+    <li> 💬 Ask me about <b>Uhh... nothing at the moment really</b></li>
+    <li> 📫 How to reach me <b>surajdas.space@gmail.com</b></li>
+    <li> fact <b>A manga fanatic</b></li>
   </ul>  
 </p>
 <h3 align="center">Technologies I'm familiar with</h3>
