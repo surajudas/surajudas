@@ -3,11 +3,11 @@
 <ul>
     <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Suraj1749/Suraj1749/master/assets/rie-wind-blowing.gif" width="200vw" />
     <li>🌱 I’m currently learning C++<b> and thinking like a programmer</b></li>
-    <li> 👨‍💻 All of my projects are available at:- Working on a new portfolio website 😅</li>
+    <li> 👨‍💻 All of my projects are available at <b> Working on a new portfolio website 😅</li>
     <li> 📝 I regulary write articles on <a href="https://surajdas.netlify.app/" target="_blank">my blog/diary kinda thinga</a></li>
     <li> 💬 Ask me about <b>Uhh... nothing at the moment really</b></li>
     <li> 📫 How to reach me <b>surajdas.space@gmail.com</b></li>
-    <li> ❤️ I love reading manga, learning an applying various philosopies (mostly stoicism), listnening and occasionaly making music, messing around in KSP, reading novels (I've gotten into Kurt Vonnehut recently) and ofcourse trying out various programming paradigms and concepts</b></li>
+    <li> ❤️ I love <b>reading manga, learning an applying various philosopies (mostly stoicism), listnening and occasionaly making music, messing around in KSP, reading novels (I've gotten into Kurt Vonnehut recently) and ofcourse trying out various programming paradigms and concepts</b></li>
 </ul>  
 </div>
 <h3 align="center">Technologies I'm familiar with</h3>
