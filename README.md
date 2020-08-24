@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Suraj Das 🌞</h1>
-<h3 align="center">Somewhat of newbie developer from India</h3>
+<h3 align="center">A newbie developer from India</h3>
 <ul>
     <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Suraj1749/Suraj1749/master/assets/rie-wind-blowing.gif" width="200vw" />
     <li>🌱 I’m currently learning <b>C++ and thinking like a programmer</b></li>
