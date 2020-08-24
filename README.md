@@ -7,7 +7,7 @@
     <li> 📝 I regulary write articles on <a href="https://surajdas.netlify.app/" target="_blank">my blog/diary kinda thinga</a></li>
     <li> 💬 Ask me about <b>Uhh... nothing at the moment really</b></li>
     <li> 📫 How to reach me <b>surajdas.space@gmail.com</b></li>
-    <li> ❤️ I love <b>reading manga, learning an applying various philosopies (mostly stoicism), listnening and occasionaly making music, messing around in KSP, reading novels (I've gotten into Kurt Vonnehut recently) and ofcourse trying out various programming paradigms and concepts</b></li>
+    <li> ❤️ I love reading manga, learning an applying various philosopies (mostly stoicism), listnening and occasionaly making music, messing around in KSP, reading novels (I've gotten into Kurt Vonnehut recently) and ofcourse trying out various programming paradigms and concepts</b></li>
 </ul>  
 </div>
 <h3 align="center">Technologies I'm familiar with</h3>
