@@ -15,9 +15,15 @@
 </p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=suraj1749&show_icons=true" alt="suraj1749" />
-<a href="https://open.spotify.com/user/bqg2fqt514u55cydgtspw2rex">
-    <img src="https://novatorem-aohw1au2n.vercel.app/api/spotify" alt="Suraj Currently playing" width="350" />
-</a>    
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+      
+&nbsp; <br> <a href="https://open.spotify.com/user/bqg2fqt514u55cydgtspw2rex">
+    <img src="https://novatorem-aohw1au2n.vercel.app/api/spotify" alt="Suraj Currently playing" width="350" /></a> 
+  </td>
+  <td width="50%">
+</table>   
 <p align="center">
 <a href="https://dev.to/suraj1749" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="suraj1749" height="30" width="30" /></a>
 <a href="https://twitter.com/surajda38564157" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="surajda38564157" height="30" width="30" /></a>
