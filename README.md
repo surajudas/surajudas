@@ -2,8 +2,8 @@
 <h3 align="center">Somewhat of newbie developer from India</h3>
 <ul>
     <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Suraj1749/Suraj1749/master/assets/rie-wind-blowing.gif" width="200vw" />
-    <li>🌱 I’m currently learning C++<b> and thinking like a programmer</b></li>
-    <li> 👨‍💻 All of my projects are available at <b> Working on a new portfolio website 😅</li>
+    <li>🌱 I’m currently learning <b>C++ and thinking like a programmer</b></li>
+    <li> 👨‍💻 All of my projects are available at <b> Working on a new portfolio website </b> 😅</li>
     <li> 📝 I regulary write articles on <a href="https://surajdas.netlify.app/" target="_blank">my blog/diary kinda thinga</a></li>
     <li> 💬 Ask me about <b>Uhh... nothing at the moment really</b></li>
     <li> 📫 How to reach me <b>surajdas.space@gmail.com</b></li>
