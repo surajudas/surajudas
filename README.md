@@ -15,7 +15,7 @@
 </p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=suraj1749&show_icons=true" alt="suraj1749" />
-
+[![Spotify](https://novatorem-five-sand.vercel.app/api/spotify)](https://open.spotify.com/user/	bqg2fqt514u55cydgtspw2rex)
 <p align="center">
 <a href="https://dev.to/suraj1749" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="suraj1749" height="30" width="30" /></a>
 <a href="https://twitter.com/surajda38564157" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="surajda38564157" height="30" width="30" /></a>
