@@ -6,7 +6,7 @@
     <li> 📝 I *used* to write articles on <a href="https://surajdas.netlify.app/" target="_blank">here</a> I don't bother with it anymore</li>
     <li> 💬 Ask me about <b>Uhh... nothing at the moment really</b></li>
     <li> 📫 How to reach me <b>surajdas.space@gmail.com</b></li>
-    <li> ❤️ I love <b>reading manga, learning an applying various philosopies (mostly stoicism), listnening and occasionaly making music, messing around in KSP, reading novels and ofcourse creating fun and usless stuff</b></li>
+    <li> ❤️ I love <b>reading manga, learning an applying various philosopies (mostly stoicism), listnening and occasionaly making music, messing around in KSP, reading novels and ofcourse creating fun and sometimes usless stuff</b></li>
 </ul>  
 </div>
 <h3 align="center">Technologies I'm familiar with</h3>
