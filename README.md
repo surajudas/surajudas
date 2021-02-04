@@ -1,16 +1,7 @@
 <h1 align="center">Hey there, I'm Suraj Das 🌞</h1>
 <h3 align="center"></h3>
-<ul>
-    <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Suraj1749/Suraj1749/master/assets/rie-wind-blowing.gif" width="200vw" />
-    <li> 👨‍💻 All of my projects are available at <b> I'll make new portfolio website in the future</b> 😅</li>
-    <li> 📝 I *used* to write articles on <a href="https://surajdas.netlify.app/" target="_blank">here</a> I don't bother with it anymore</li>
-    <li> 💬 Ask me about <b>Uhh... nothing at the moment really</b></li>
-    <li> 📫 How to reach me <b>surajdas.space@gmail.com</b></li>
-    <li> ❤️ I love <b>reading manga, learning an applying various philosopies (mostly stoicism), listnening and occasionaly making music, messing around in KSP, reading novels and ofcourse creating fun and sometimes usless stuff</b></li>
-</ul>  
-</div>
 <h3 align="center">Technologies I'm familiar with</h3>
-<p align="center"> <img src="https://img.shields.io/badge/-Android-black?style=flat&logo=android"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=flat"> <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-Flask-0d7963?style=flat&logo=flask&logoColor=white">
+<p align="center"><img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=flat"> <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-Flask-0d7963?style=flat&logo=flask&logoColor=white">
 </p>
 <p align="center">
     <a href="https://open.spotify.com/user/bqg2fqt514u55cydgtspw2rex">
