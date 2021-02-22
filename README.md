@@ -8,5 +8,5 @@
         <img src="https://novatorem-aohw1au2n.vercel.app/api/spotify" alt="Suraj Currently playing" width="350" /></a>
 </p>    
 <p align="center">
-<a href="https://www.youtube.com/c/mildblue" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="mildblue" height="30" width="30" /></a>
+<a href="https://www.youtube.com/c/Mildblue" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Mildblue" height="30" width="30" /></a>
 </p>
