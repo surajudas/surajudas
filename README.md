@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Suraj Das 🌞</h1>
 <h3 align="center"></h3>
-<h3 align="center">Technologies I'm familiar with</h3>
+<h3 align="center">Technologies I'm know a bit about</h3>
 <p align="center"><img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=flat"> <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-Flask-0d7963?style=flat&logo=flask&logoColor=white">
 </p>
 <p align="center">
